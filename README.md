@@ -17,7 +17,7 @@ crosoft.
 
 -->
 
-![Banner Personalizado](portfolio.webp) <!-- Sustituye este enlace por el enlace real de tu imagen de banner -->
+
 # Hola, soy Pedro López Murúa 👋
 
 ## 🚀 Sobre Mí
@@ -26,7 +26,7 @@ Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAc
 ## 🛠 Habilidades
 `HTML` `CSS` `JavaScript` `React.js` `Python` `Flask` `SQL` `Angular 14` `Node.js` `Bootstrap` `Git` `GitHub` `Jenkins` `Kanban` `ClickUp` `MS Project` `Metodologías Ágiles`
 
-![Skills Infographic](infografia.webp) <!-- Sustituye este enlace por el enlace real de tu infografía de habilidades -->
+<!--![Skills Infographic](infografia.webp) Sustituye este enlace por el enlace real de tu infografía de habilidades -->
 
 ## 🔍 Proyectos Actuales
 Trabajando en proyectos personales y colaborativos, aplicando y profundizando en desarrollo web. Abierto a colaboraciones que busquen innovar y resolver desafíos digitales.
