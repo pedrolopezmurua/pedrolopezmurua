@@ -20,7 +20,7 @@ crosoft.
 
 # Hola, soy Pedro López Murúa 👋
 
-![Banner Personalizado](https://tu-sitio-web.com/banner-personalizado.jpg) <!-- Sustituye este enlace por el enlace real de tu imagen de banner -->
+![Banner Personalizado](banner.webp) <!-- Sustituye este enlace por el enlace real de tu imagen de banner -->
 
 ## 🚀 Sobre Mí
 Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAcademy](https://www.4geeksacademy.com/). Con una pasión por el aprendizaje continuo, busco fusionar mi experiencia en gestión de proyectos con habilidades de desarrollo para crear soluciones innovadoras en el ámbito digital.
