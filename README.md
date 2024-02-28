@@ -17,11 +17,11 @@ crosoft.
 
 -->
 
-![Banner Personalizado](banner.webp) <!-- Sustituye este enlace por el enlace real de tu imagen de banner -->
+![Banner Personalizado](portfolio.webp) <!-- Sustituye este enlace por el enlace real de tu imagen de banner -->
 # Hola, soy Pedro López Murúa 👋
 
 ## 🚀 Sobre Mí
-Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAcademy](https://www.4geeksacademy.com/). Con una pasión por el aprendizaje continuo, busco fusionar mi experiencia en gestión de proyectos con habilidades de desarrollo para crear soluciones innovadoras en el ámbito digital.
+Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAcademy](https://www.4geeksacademy.com/). Con una pasión por el aprendizaje continuo, busco fusionar mi experiencia en gestión de proyectos con habilidades de desarrollo para crear soluciones innovadoras en el ámbito digital, en lo personal, megustan los deportes al aire libre, como el trekking, sky y el buceo.
 
 ## 🛠 Habilidades
 `HTML` `CSS` `JavaScript` `React.js` `Python` `Flask` `SQL` `Angular 14` `Node.js` `Bootstrap` `Git` `GitHub` `Jenkins` `Kanban` `ClickUp` `MS Project` `Metodologías Ágiles`
@@ -31,15 +31,8 @@ Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAc
 ## 🔍 Proyectos Actuales
 Trabajando en proyectos personales y colaborativos, aplicando y profundizando en desarrollo web. Abierto a colaboraciones que busquen innovar y resolver desafíos digitales.
 
-- **Mi Portafolio Web**: [Ver Repositorio](https://github.com/pedrolopezmurua/mi-portafolio)
-  
-  ![Captura de Mi Portafolio](https://tu-sitio-web.com/captura-portafolio.jpg)
 
-- **Aplicación de E-commerce con React y Node.js**: [Ver Repositorio](https://github.com/pedrolopezmurua/e-commerce)
-  
-  ![GIF Funcionalidad E-commerce](https://tu-sitio-web.com/gif-ecommerce.gif)
-
-## 📫 Cómo Contactarme
+## 📫  Conversemos...
 - **Email**: [pedrolopezmurua@gmail.com](mailto:pedrolopezmurua@gmail.com)
 - **LinkedIn**: [Visitar LinkedIn](https://www.linkedin.com/in/pedrolopezmurua/)
 
