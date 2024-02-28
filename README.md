@@ -17,22 +17,27 @@ crosoft.
 
 -->
 
-
 # Hola, soy Pedro López Murúa 👋
 
 ## 🚀 Sobre Mí
-Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAcademy](https://www.4geeksacademy.com/). Con una pasión por el aprendizaje continuo, busco fusionar mi experiencia en gestión de proyectos con habilidades de desarrollo para crear soluciones innovadoras en el ámbito digital, en lo personal, megustan los deportes al aire libre, como el trekking, sky y el buceo.
+Jefe de Proyectos Digitales y Desarrollador Full-Stack certificado por [4GeeksAcademy](https://www.4geeksacademy.com/). Con una pasión por el aprendizaje continuo, busco fusionar mi experiencia en gestión de proyectos con habilidades de desarrollo para crear soluciones innovadoras en el ámbito digital. En lo personal, me gustan los deportes al aire libre, como el trekking, ski y el buceo.
 
 ## 🛠 Habilidades
-`HTML` `CSS` `JavaScript` `React.js` `Python` `Flask` `SQL` `Angular 14` `Node.js` `Bootstrap` `Git` `GitHub` `Jenkins` `Kanban` `ClickUp` `MS Project` `Metodologías Ágiles`
+- **Lenguajes de Programación**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Python`, `Flask`, `SQL`, `Angular 14`, `Node.js`, `Bootstrap`
+- **Herramientas y Tecnologías de Gestión de Proyectos y Colaboración**: `Git`, `GitHub`, `Jenkins`, `Kanban`, `ClickUp`, `MS Project`, `Metodologías Ágiles`, `Jira`, `Slack`, `Microsoft Teams`, `Zoom`, `Google Meet`
+- **Herramientas de Desarrollo y Diseño**: `Visual Studio Code (VS Code)`, `Sublime Text`, `Atom`, `GitLab`, `Docker`, `Kubernetes`, `Postman`
+- **Frameworks y Bibliotecas**: `React`, `Angular`, `Node.js`, `Express.js`, `Bootstrap`, `Flask`
+- **Bases de Datos y ORM**: `SQL Server`, `Oracle SQL`, `MongoDB`
+- **Herramientas de Despliegue y CI/CD**: `Azure`, `Vercel`, `Jenkins`, `Git`
+- **Soft Skills**: Liderazgo de proyectos, gestión de equipos, comunicación efectiva.
 
-<!--![Skills Infographic](infografia.webp) Sustituye este enlace por el enlace real de tu infografía de habilidades -->
+<!--![Skills Infographic](URL_DE_TU_INFOGRAFÍA) Sustituye este enlace por el enlace real de tu infografía de habilidades -->
 
-## 🔍 Proyectos Actuales
-Trabajando en proyectos personales y colaborativos, aplicando y profundizando en desarrollo web. Abierto a colaboraciones que busquen innovar y resolver desafíos digitales.
+<!--! ## 🔍 Proyectos Actuales
+Trabajando en proyectos personales y colaborativos, aplicando y profundizando en desarrollo web. Abierto a colaboraciones que busquen innovar y resolver desafíos digitales.-->
 
-
-## 📫  Conversemos...
+## 📫  Contactemonos...
+Si estás interesado en colaborar o simplemente quieres conversar sobre tecnología y proyectos digitales, no dudes en contactarme a través de:
 - **Email**: [pedrolopezmurua@gmail.com](mailto:pedrolopezmurua@gmail.com)
 - **LinkedIn**: [Visitar LinkedIn](https://www.linkedin.com/in/pedrolopezmurua/)
 
